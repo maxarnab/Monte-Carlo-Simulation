@@ -2,7 +2,7 @@
 
 This project simulates rolling a **fair 6-sided die** multiple times (10 to 50,000 throws) and analyzes the probability of each face appearing. The goal is to observe how the **Monte Carlo method** approximates theoretical probabilities as the number of rolls increases.
 
-📌 **Built in:** First-year college (Statistics Subject)  
+📌 **Built in:** First-year college (Statistics project-I)  
 📌 **Platform:** Google Colab  
 
 ---
@@ -73,6 +73,6 @@ monte_carlo_simulation/ │── [monte_carlo_die_simulation.ipynb](https://col
 ---
 
 ## 👨‍🎓 Author  
-[Your Name](https://github.com/maxarnab)  
+[Arnab Saha](https://github.com/maxarnab)  
 
 ---
