@@ -4,7 +4,7 @@ This project simulates rolling a **fair 6-sided die** multiple times (10 to 50,0
 
 📌 **Built in:** First-year college (Statistics project-I)  
 📌 **Platform:** Google Colab  
-
+📌 **View Project** [monte_carlo_die_simulation.ipynb](https://colab.research.google.com/drive/1cUQ1VX6PO5ocuDMdQ0mykgcxZ6kxrirO?usp=sharing)
 ---
 
 ## 🔍 Project Overview
